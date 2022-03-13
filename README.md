@@ -4,6 +4,3 @@
 3. test
 4. save
 5. 기억하기
-6. hello;
-7. VSCode;
-8. last
