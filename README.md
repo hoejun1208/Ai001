@@ -5,4 +5,8 @@
 4. save
 5. 기억하기
 6. hello;
+<<<<<<< HEAD
 7. VSCode;
+=======
+7. VSCode
+>>>>>>> eb603ea5cffae2c86ce088320c482b476f767c7f
